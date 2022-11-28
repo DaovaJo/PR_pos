@@ -1316,6 +1316,7 @@ font-weight: 400;
 font-size: 18px;
 line-height: 22px;
 /* identical to box height */
+	      /* identical to box height */
 
 
 color: #363636;</string>
@@ -1382,3 +1383,5 @@ color: #363636;</string>
  <resources/>
  <connections/>
 </ui>
+
+
