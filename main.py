@@ -4,8 +4,8 @@ import sys
 from PySide6.QtWidgets import (QApplication, QFileDialog, QMainWindow,
                                QMessageBox, QProgressBar, QVBoxLayout, QWidget)
 
-from UI_Disign.mainwind import Ui_Form
-
+# from UI_Disign.mainwind import Ui_Form
+from UI.mainwind import Ui_Form
 
 
 
